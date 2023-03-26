@@ -37,11 +37,9 @@ Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux ·
 
 </p>
 
-LinkedIn - https://www.linkedin.com/in/priya-bagde/ <br/> 
-GitHub - https://github.com/priya42bagde </br>
-YouTube - https://youtube.com/channel/UCK1_Op30_pZ1zBs9l3HNyBw <br/>
-Leetcode - https://leetcode.com/priya42bagde/ <br/>
-Portfolio - For portfolio connect with me.  <br/>
+LinkedIn - https://www.linkedin.com/in/nurudeen-yekeen-2a9a88154 <br/> 
+GitHub - https://github.com/nurudeen38 </br>
+Portfolio -  https://www.nurudeen.dev  <br/>
 
 --------
 
