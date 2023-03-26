@@ -49,8 +49,8 @@ Portfolio -  https://www.nurudeen.dev  <br/>
 -->
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurudeen38&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nurudeen38" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nurudeen38&show_icons=true&locale=en&theme=chartreuse-dark" alt="nurudeen3n" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurudeen38&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nurudeen38" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nurudeen38&show_icons=true&locale=en&theme=chartreuse-dark" alt="nurudeen3n" width="410" /></p>
 <br><br><br><br><br>
 <hr>
 
