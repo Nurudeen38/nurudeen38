@@ -51,16 +51,4 @@ Portfolio -  https://www.nurudeen.dev  <br/>
 <br><br><br><br><br>
 <hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nurudeen38&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-
-<p align="center">
-<div align=center>
-  <a href="https://github.com/nurudeen38/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nurudeen38&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
 
