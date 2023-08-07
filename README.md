@@ -1,9 +1,6 @@
  <h2 align="center">Hi there 👋, I'm Nurudeen!</h2>
 
-
-Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ asN Next,Remix,Node, React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
-
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 
+Exposed♛ to building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Next,Remix,Node, React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
 
 Responsibilities-
 Developing new user-facing features using React.js
