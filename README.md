@@ -1,6 +1,6 @@
  <h2 align="center">Hi there 👋, I'm Nurudeen!</h2>
 
-Exposed♛ to building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Next,Remix,Node, React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
+Exposed♛ to building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Angular, Nextjs, Remix, Node, React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
 
 Responsibilities-
 Developing new user-facing features using React.js
