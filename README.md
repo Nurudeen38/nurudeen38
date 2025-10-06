@@ -1,14 +1,14 @@
  <h2 align="center">Hi there 👋, I'm Nurudeen!</h2>
 
-Exposed♛ to building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Angular, Nextjs, Remix, Node, React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
+Expert at building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Angular, Nextjs, React(18), Nodejs, Remix
 
 Responsibilities-
 Developing new user-facing features using React.js
-Building reusable components and front-end libraries for future use
+Building reusable components and front-end libraries for future use.
 Translating designs into high quality code
 Optimizing components for maximum performance
 Optimizing performance of the application.
-Troubleshooting the bugs
+Troubleshooting the bugs.
  
 Skills-
 Strong proficiency in JavaScript and the JavaScript object model
@@ -24,7 +24,7 @@ Good Understanding with common front-end development tools such as Babel, Webpac
 Ability to understand business requirements and translate them into technical requirements
 Familiarity with common tools such as Git, Bitbucket, JIRA
 
-Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub
+Skills: React | React 18 | Next.js | Angular | TypeScript | JavaScript ES6+ | React Native | HTML5 | CSS3 | WebGL | Three.js
 
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
