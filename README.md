@@ -29,13 +29,10 @@ Skills: React | React 18 | Next.js | Angular | TypeScript | JavaScript ES6+ | Re
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
-<p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/nurudeen-yekeen-2a9a88154" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-nurudeen" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
-</p>
-
-LinkedIn - https://www.linkedin.com/in/nurudeen-yekeen-2a9a88154 <br/> 
-GitHub - https://github.com/nurudeen38 </br>
+<a href="https://github.com/nurudeen38" rel="nofollow"><img align="center" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="m-nurudeen" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<br/> 
 Portfolio -  https://www.nurudeen.dev  <br/>
 
 --------
