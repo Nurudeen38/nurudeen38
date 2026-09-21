@@ -1,4 +1,4 @@
- <h2 align="center">Hi there 👋, I'm Nurudeen!</h2>
+ <h2 align="center">Hi there 👋, I'm Deen!</h2>
 
 Expert at building professional websites🖥 and front-end applications 💻. Skilled in Frontend Technologies✍️ such as Angular, Nextjs, React(18), Nodejs, Remix
 
